@@ -1,0 +1,3 @@
+Linear regression model deployment on heroku cloud plateform.
+
+url : https://foreign-admissionpred-linreg.herokuapp.com/
